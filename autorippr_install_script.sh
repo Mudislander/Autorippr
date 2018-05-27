@@ -72,7 +72,7 @@ sudo pip install tendo pyyaml peewee pushover
 
 # Install Autorippr
 cd ~
-git clone https://github.com/JasonMillward/Autorippr.git
+git clone https://github.com/Mudislander/Autorippr.git
 cd Autorippr
 git checkout
 cp settings.example.cfg settings.cfg
